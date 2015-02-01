@@ -1,0 +1,20 @@
+{
+    "modelVersion": "0.1",
+    "name": "svgedit",
+    "author": "Ludovic Dubost, XWiki SAS",
+    "description": "SVG Editing WebViewer",
+    "version": "2.7.1",
+    "releaseStatus": "beta",
+    "actions": {
+        "edit":["svg"],
+        "view":["svg"]
+    },
+    "sourceURL": "https://github.com/WebViewers/svgedit-webviewer.git",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "type": "office",
+    "_originalDeveloper": "SVG-edit community",
+    "_viewerLicense": "MIT license",
+    "_viewerURL": "https://code.google.com/p/svg-edit/",
+    "main_edit": "svgedit/svg-editor2.html?extensions=ext-markers.js,ext-connector.js,ext-eyedropper.js,ext-shapes.js,ext-grid.js",
+    "main": "index.html"
+}
